@@ -6,8 +6,8 @@ Tap is an engaging Android game developed using the Unity engine. The objective 
 It has really simple graphics and will run on any android device higher than v5.0
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/Tap_1.png" alt="Game Screenshot 1" style="width: 48%;">
-  <img src="Game%20Screenshot/Tap_2.png" alt="Game Screenshot 2" style="width: 48%;">
+  <img src="Game%20Screenshot/Tap_1.png" alt="Game Screenshot 1" style="width: 40%;">
+  <img src="Game%20Screenshot/Tap_2.png" alt="Game Screenshot 2" style="width: 40%;">
 </div>
 
 ## Features
