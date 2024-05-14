@@ -5,7 +5,10 @@
 Tap is an engaging Android game developed using the Unity engine. The objective of the game is to test and improve the player's reflexes and timing through a series of interactive challenges. This repository contains the complete source code and assets required to build and run the game.
 It has really simple graphics and will run on any android device higher than v5.0
 
-![Game Screenshot 1](Game%20Screenshot/Tap_1.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="Game%20Screenshot/Tap_1.png" alt="Game Screenshot 1" style="width: 48%;">
+  <img src="Game%20Screenshot/Tap_2.png" alt="Game Screenshot 2" style="width: 48%;">
+</div>
 
 ## Features
 
@@ -13,8 +16,6 @@ It has really simple graphics and will run on any android device higher than v5.
 - **Engine**: Unity
 - **Gameplay**: Tap-based controls for intuitive and addictive gameplay
 - **Graphics**: Simple and clean UI for an enjoyable experience
-
-![Game Screenshot 2](Game%20Screenshot/Tap_2.png)
 
 ## Installation
 
