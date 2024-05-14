@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 86e71094206a06647a337797e0ceb232
+timeCreated: 1528810037
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Speedball No 3 NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 11c7e0b33271ffe4da1eff5b42b9de9b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
