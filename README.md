@@ -1,2 +1,4 @@
 # Tap
-Android game made with Unity engine
+Android game made with Unity engine.
+Enjoy!
+
