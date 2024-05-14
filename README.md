@@ -3,6 +3,7 @@
 ## Overview
 
 Tap is an engaging Android game developed using the Unity engine. The objective of the game is to test and improve the player's reflexes and timing through a series of interactive challenges. This repository contains the complete source code and assets required to build and run the game.
+It has really simple graphics and will run on any android device higher than v5.0
 
 ## Features
 
@@ -15,7 +16,7 @@ Tap is an engaging Android game developed using the Unity engine. The objective 
 
 ### Prerequisites
 
-- Unity Hub and Unity Editor (preferably the version used in the project)
+- Unity Hub and Unity Editor (preferably the Unity v5.4)
 - Android SDK and NDK
 - Git
 
@@ -63,6 +64,28 @@ Tap is an engaging Android game developed using the Unity engine. The objective 
 - **MenuScene.unity**: The scene for the main menu of the game.
 - **GameOverScene.unity**: The scene displayed when the game ends.
 
+## Detailed Script Overview
+
+### GameController.cs
+
+The GameController script is the heart of the game. It manages the game state, including starting, pausing, and ending the game. It also handles the game's main loop and coordinates with other scripts.
+
+### PlayerController.cs
+
+The PlayerController script handles player input and interactions. It processes touch inputs and translates them into game actions. It also manages player-related states and animations.
+
+### ObstacleSpawner.cs
+
+The ObstacleSpawner script is responsible for generating obstacles in the game. It controls the timing and positioning of obstacles to create a challenging and engaging gameplay experience.
+
+### ScoreManager.cs
+
+The ScoreManager script keeps track of the player's score. It updates the score based on game events and interacts with the UI to display the current score to the player.
+
+### UIManager.cs
+
+The UIManager script manages all the UI elements in the game. It handles transitions between different UI screens (e.g., menu, game over) and updates UI elements based on the game state.
+
 ## Contributing
 
 We welcome contributions to enhance the game. To contribute:
@@ -73,10 +96,17 @@ We welcome contributions to enhance the game. To contribute:
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request detailing your changes.
 
+### Contribution Guidelines
+
+- Follow the coding standards used in the project.
+- Write clear and descriptive commit messages.
+- Test your changes thoroughly before submitting a pull request.
+- Ensure your changes do not break existing functionality.
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
 
-For any queries or support, feel free to open an issue on GitHub or contact the repository owner.
+For any queries or support, feel free to open an issue on GitHub or contact me (Aditya Bakshi).
