@@ -30,7 +30,7 @@ It has really simple graphics and will run on any android device higher than v5.
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/adibakshi/Tap.git
+    https://github.com/adibakshi28/Tap-Android.git
     ```
 2. **Open the Project in Unity**:
     - Open Unity Hub.
